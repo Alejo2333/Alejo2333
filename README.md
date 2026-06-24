@@ -2,8 +2,6 @@
 
 # I'm Alejo
 
-<img src="assets/fubuki.gif" alt="Coding" width="800"/>
-
 ---
 
 ## Tech Stack
