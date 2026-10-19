@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Alejo" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%24+whoami;console.log('hello+world')+%F0%9F%91%BE;sudo+make+me+a+sandwich+%F0%9F%A5%AA;teaching+AI+agents+to+do+my+chores+%F0%9F%A4%96;it+works+on+my+machine+%E2%84%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%24+whoami;console.log('hello+world')+%F0%9F%91%BE;sudo+make+me+a+sandwich+%F0%9F%A5%AA;teaching+AI+agents+to+do+my+chores+%F0%9F%A4%96;who+is+json%3F+%F0%9F%A4%94" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
