@@ -45,16 +45,13 @@
 <text class="c" y="0" style="animation:fall 6.0s linear -0.2s infinite"><tspan x="984" dy="18" fill-opacity="0.05">]</tspan><tspan x="984" dy="18" fill-opacity="0.11">*</tspan><tspan x="984" dy="18" fill-opacity="0.16">$</tspan><tspan x="984" dy="18" fill-opacity="0.21">;</tspan><tspan x="984" dy="18" fill-opacity="0.27">$</tspan><tspan x="984" dy="18" fill-opacity="0.32">1</tspan><tspan x="984" dy="18" fill-opacity="0.37">)</tspan><tspan x="984" dy="18" fill-opacity="0.42">&gt;</tspan><tspan x="984" dy="18" fill-opacity="0.48">&gt;</tspan><tspan x="984" dy="18" fill-opacity="0.53">=</tspan><tspan x="984" dy="18" fill-opacity="0.58">)</tspan><tspan x="984" dy="18" fill-opacity="0.64">0</tspan><tspan x="984" dy="18" fill-opacity="0.69">=</tspan><tspan x="984" dy="18" fill-opacity="0.74">[</tspan><tspan x="984" dy="18" fill-opacity="0.8">#</tspan><tspan x="984" dy="18" fill-opacity="0.85">&amp;</tspan></text>
 <rect width="1000" height="260" fill="#0b1220" opacity=".35"/>
 <rect width="1000" height="3" fill="#38bdf8" opacity=".18"><animate attributeName="y" from="-3" to="260" dur="3.2s" repeatCount="indefinite"/></rect>
-<text x="500" y="72" text-anchor="middle" font-family="'Courier New',monospace" font-size="22" letter-spacing="8" fill="#94a3b8">HELLO WORLD, I'M</text>
 <g font-family="'Courier New',monospace" font-weight="700" font-size="98" text-anchor="middle" letter-spacing="10">
 <text class="g1" x="500" y="148" fill="#f0abfc" opacity=".8">ALEJO</text>
 <text class="g2" x="500" y="148" fill="#22d3ee" opacity=".8">ALEJO</text>
 <text class="m" x="500" y="148" fill="#ffffff" filter="url(#glow)">ALEJO</text>
 </g>
 <g clip-path="url(#sub)">
-<text x="500" y="190" text-anchor="middle" font-family="'Courier New',monospace" font-size="20" fill="#38bdf8">&gt; full-stack dev  |  ai agents  |  professional bug creator</text>
 </g>
-<text x="500" y="232" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" fill="#64748b">status: <tspan fill="#22c55e">online<animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></tspan></text>
 </g>
 <rect x="1" y="1" width="998" height="258" rx="16" fill="none" stroke="#38bdf8" stroke-opacity=".35"/>
 </svg>
